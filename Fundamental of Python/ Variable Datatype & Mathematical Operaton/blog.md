@@ -1,0 +1,1 @@
+[Blog about python variable](https://fahimerdiary.blogspot.com/2022/02/blog-post.html)
