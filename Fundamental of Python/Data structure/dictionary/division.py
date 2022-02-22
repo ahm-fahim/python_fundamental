@@ -7,9 +7,11 @@ bd_division_info["Mymensingh"] = {"district": 4, "upazila": 34, "union":350}
 
 print(bd_division_info.keys())
 
-for divission in bd_division_info:
+for key,value in bd_division_info.items():
     # print(divission,bd_division_info[divission]["upazila"])
-    print(bd_division_info[divission])
+    # print(bd_division_info[divission])
+    print(key)
+    print(value)
 
 
 
