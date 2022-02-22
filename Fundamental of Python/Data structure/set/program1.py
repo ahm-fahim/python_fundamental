@@ -16,4 +16,14 @@ print(new_set1)
 new_set2 = set(tpl)
 print(new_set2)
 
+#str to set
+a = "bangladesh"
+print(a)
+b = set(a)
+print(b)
+print(type(b))
+
+num = {1,2,3,4}
+print(1 in num)
+print(5 in num)
 
