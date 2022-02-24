@@ -17,4 +17,3 @@ while True:
         print(number,"is a prime number")
     else:
         print(number, "is not a prime nuber")
-
