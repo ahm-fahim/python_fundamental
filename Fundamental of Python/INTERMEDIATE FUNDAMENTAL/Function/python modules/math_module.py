@@ -6,3 +6,5 @@ num = 25
 square_num = m.sqrt(num)
 
 print(square_num)
+
+print(dir(m))
